@@ -1,16 +1,16 @@
-## My Skills Progress
-
-### Semester 1: Foundation
-- **Basic Programming** █████░░░░░ 50%
-- **HTML/CSS** ████░░░░░░ 40% 
-- **Algorithm** ███░░░░░░░ 30%
-
-### Semester 2: Backend  
-- **PHP** ███████░░░░ 70%
-- **Laravel** ██████░░░░░ 60%
-- **MySQL** █████░░░░░░ 50%
-
-### Semester 3: Mobile
-- **Dart Basics** ████████░░ 30%
-- **Flutter UI** ██████░░░░░ 30%
-- **State Management** ████░░░░░░ 40%
+```mermaid
+journey
+    title My Programming Journey (Semester 1-3)
+    section Semester 1: Foundation
+      Basic Programming: 5: Me
+      HTML/CSS: 4: Me
+      Algorithm: 3: Me
+    section Semester 2: Backend Development
+      PHP: 7: Me
+      Laravel: 6: Me
+      MySQL: 5: Me
+    section Semester 3: Mobile Development
+      Dart Basics: 8: Me
+      Flutter UI: 6: Me
+      State Management: 4: Me
+```
