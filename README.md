@@ -50,12 +50,12 @@
 
 ### Database & Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,firebase" alt="Database Stack" width="180" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,firebase,supabase" alt="Database Stack" width="180" height="50"/>
 </p>
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools Stack" width="250" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,discord" alt="Tools Stack" height="50"/>
 </p>
 
 ### AI & Machine Learning
