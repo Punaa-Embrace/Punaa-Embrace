@@ -1,10 +1,8 @@
 <div align="center">
   
-  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Budi Syah Putra
+  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Syaa
   
-  ### Full Stack Developer | Mobile & Web Enthusiast
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+Scalable+Applications;Clean+Code+Advocate;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;FrontEnd+Developer;Building+Scalable+Applications;Clean+Code+Advocate;Always+Learning+New+Tech" alt="Typing SVG" />
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
   
@@ -14,7 +12,7 @@
 
 <p align="center">
   <samp>
-    Informatics Engineering Student (Semester 4) with a strong passion for Full Stack Development.
+    Informatics Engineering with a strong passion for Full Stack Development.
     Experienced in building complete applications from database design to frontend implementation.
     Currently diving deeper into Backend Architecture and Clean Code principles.
     Always eager to learn new technologies and improve my craft.
