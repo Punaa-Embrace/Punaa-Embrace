@@ -4,6 +4,12 @@
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;FrontEnd+Developer;Building+Scalable+Applications;Clean+Code+Advocate;Always+Learning+New+Tech" alt="Typing SVG" />
   
+  <br/>
+  
+  <img src="https://media.tenor.com/5oFUhaE1zKIAAAA1/sakamoto-days.webp" width="1024"/>
+  
+  <br/>
+  
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
   
 </div>
