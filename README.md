@@ -1,143 +1,147 @@
-<!-- **budisyahputra/budisyahputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --><h1 align="center">Hi 👋, Saya Budi Syah Putra</h1> <h3 align="center">Seorang Full Stack Developer yang kadang suka lupa titik koma 🤪</h3><p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Error+Hunter+Professional;Debugging+is+my+hobby;Kadang+ngoding+sambil+ngopi" alt="Typing SVG" /> </p><div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/> </div>
+<div align="center">
+  
+  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Budi Syah Putra
+  
+  ### Full Stack Developer | Mobile & Web Enthusiast
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+Scalable+Applications;Clean+Code+Advocate;Always+Learning+New+Tech" alt="Typing SVG" />
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+  
+</div>
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> About Me
+
+<p align="center">
+  <samp>
+    Informatics Engineering Student (Semester 4) with a strong passion for Full Stack Development.
+    Experienced in building complete applications from database design to frontend implementation.
+    Currently diving deeper into Backend Architecture and Clean Code principles.
+    Always eager to learn new technologies and improve my craft.
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    <strong>Focus:</strong> Full Stack Development • Database Design • Clean Architecture
+  </samp>
+</p>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> Tech Stack
+
+### Design & Prototyping
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ae" alt="Design Stack" width="100" height="50"/>
+</p>
 
 
+### Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile Stack" width="100" height="50"/>
+</p>
 
-## 👨‍💻 About Me
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Stack" width="280" height="50"/>
+</p>
 
-```id="x9d2ka"
-🎓 Informatics Engineering Student (Semester 4)
-📱 Focus on Mobile Development (Flutter)
-💡 Love building useful & scalable applications
-🚀 Currently learning Backend API & Clean Architecture
-🎮 Gamer + Tech Enthusiast
-⚡ Always curious about new technology
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" alt="Backend Stack" width="220" height="50"/>
+</p>
+
+### Database & Storage
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,firebase" alt="Database Stack" width="180" height="50"/>
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools Stack" width="250" height="50"/>
+</p>
+
+### AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI Stack" width="140" height="50"/>
+</p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Punaa-Embrace&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punaa-Embrace&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=Punaa-Embrace&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</div>
+
+## <img src="https://media.giphy.com/media/3o7TKz9b9ZqQ9sBd68/giphy.gif" width="35"> Featured Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Quran Memo App</h3>
+      <p>Flutter-based memorization tracking app with comprehensive features for modern learning experience</p>
+      <p>
+        <strong>Features:</strong><br/>
+        Camera | Audio Recording | Gamification<br/>
+        Payment Gateway | SQLite | PostgreSQL
+      </p>
+      <p>
+        <strong>Backend:</strong> Laravel REST API
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,sqlite,postgres" alt="Tech Stack" width="240" height="40"/>
+      </p>
+      <a href="https://github.com/Punaa-Embrace/QuranMemo">View Project</a>
+    </td>
+    <td align="center" width="50%">
+      <h3>Kanteen Mobile Application</h3>
+      <p>Hybrid app integrated with web backend — one API for both platforms</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=laravel,php,mysql,flutter,dart" alt="Tech Stack" width="200" height="40"/>
+      </p>
+      <a href="https://github.com/Punaa-Embrace/Kantin-Fullstack">View Project</a>
+    </td>
+  </tr>
+</table>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Current Learning Goals
+
+```mermaid
+graph LR
+    A[Current Focus] --> B[Advanced Flutter]
+    A --> C[Clean Architecture]
+    A --> D[Security & Auth]
+    A --> E[UI/UX Design]
+    style A fill:#2F81F7,stroke:#1a1a2e,stroke-width:2px,color:#fff
+    style B fill:#02569B,stroke:#1a1a2e,stroke-width:2px,color:#fff
+    style C fill:#FF2D20,stroke:#1a1a2e,stroke-width:2px,color:#fff
+    style D fill:#F7DF1E,stroke:#1a1a2e,stroke-width:2px,color:#000
+    style E fill:#F24E1E,stroke:#1a1a2e,stroke-width:2px,color:#fff
 ```
 
----
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect
 
-## 🎮 Gaming & Hobbies
-
-🎮 Passionate Gamer
-🕹️ Interested in Game Development
-🎯 Exploring JavaScript Canvas & Unity
-🔥 Love building interactive apps & games
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 🎨 Design
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syaaputa@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Punaa-Embrace)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895336892177)
+  
+</div>
 
 ---
 
-### 📱 Mobile Development
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-
----
-
-### 🌐 Frontend
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-
----
-
-### ⚙️ Backend
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![PostgREST](https://img.shields.io/badge/PostgREST-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
----
-
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
----
-
-### 🔧 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-
----
-
-## 🤖 Artificial Intelligence
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge\&logo=openai\&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge)
-![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge)
-![Antigravity](https://img.shields.io/badge/Antigravity_AI-111111?style=for-the-badge)
-
-
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35"> Code Philosophy
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Punaa-Embrace&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punaa-Embrace&layout=compact&theme=radical&hide_border=true"/>
+  <samp>
+    "First, solve the problem. Then, write the code."
+  </samp>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Punaa-Embrace&theme=radical&hide_border=true"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 📱 Quran Memo App
-
-* Flutter app for memorization tracking
-* Record audio setoran
-* Clean UI & smooth UX
-
-### 🛒 Laravel E-Commerce API
-
-* Authentication (JWT)
-* Cart & Order system
-* RESTful API
-
----
-
-## 🎯 Current Learning
-
-* 📱 Advanced Flutter (State Management, API)
-* 🔐 Authentication & Security
-* 🧠 Clean Architecture
-* 🎨 UI/UX Design
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:syaapuna@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Punaa-Embrace"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
-  <a href="https://wa.me/62895336892177"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-</p>
-
----
-
-## 🐍 Contribution Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🔥 Quote
-
-<p align="center">
-💡 "First, solve the problem. Then, write the code."
+  <samp>Thanks for stopping by! Have a great day.</samp>
 </p>
