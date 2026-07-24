@@ -66,7 +66,7 @@
 
 ### AI & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=python" alt="AI Stack" width="100" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="AI Stack" width="50" height="50"/>
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
