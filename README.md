@@ -72,12 +72,12 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Punaa-Embrace&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punaa-Embrace&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Putsaa&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Putsaa&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Punaa-Embrace&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=Putsaa&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
 
 ## <img src="https://media.giphy.com/media/3o7TKz9b9ZqQ9sBd68/giphy.gif" width="35"> Featured Projects
@@ -98,7 +98,7 @@
       <p>
         <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,sqlite,postgres" alt="Tech Stack" width="240" height="40"/>
       </p>
-      <a href="https://github.com/Punaa-Embrace/QuranMemo">View Project</a>
+      <a href="https://github.com/Putsaa/QuranMemo">View Project</a>
     </td>
     <td align="center" width="50%">
       <h3>Kanteen Mobile Application</h3>
@@ -106,7 +106,7 @@
       <p>
         <img src="https://skillicons.dev/icons?i=laravel,php,mysql,flutter,dart" alt="Tech Stack" width="200" height="40"/>
       </p>
-      <a href="https://github.com/Punaa-Embrace/Kantin-Fullstack">View Project</a>
+      <a href="https://github.com/Putsaa/Kantin-Fullstack">View Project</a>
     </td>
   </tr>
 </table>
@@ -131,7 +131,7 @@ graph LR
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syaaputa@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Punaa-Embrace)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Putsaa)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895336892177)
   
 </div>
