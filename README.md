@@ -41,22 +41,22 @@
 
 ### Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile Stack" width="100" height="50"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile Stack" height="50"/>
 </p>
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Stack" width="280" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Stack" height="50"/>
 </p>
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" alt="Backend Stack" width="180" height="50"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" alt="Backend Stack" height="50"/>
 </p>
 
 ### Database & Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,firebase,supabase" alt="Database Stack" width="180" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,firebase,supabase" alt="Database Stack" height="50"/>
 </p>
 
 ### Tools & Platforms
