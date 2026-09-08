@@ -15,8 +15,9 @@
     Continuously improving my problem-solving skills and exploring better ways to turn ideas into reliable software.<br>
     <strong>Focus:</strong> Full Stack Development • Database Design • Clean Architecture
   </samp>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=false&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Scalable+Applications;Clean+Code+%26+Clean+Architecture;Designing+Maintainable+Systems;Problem+Solver+%26+Continuous+Learner" alt="Typing SVG" />
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=false&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Scalable+Applications;Clean+Code+%26+Clean+Architecture;Designing+Maintainable+Systems;Problem+Solver+%26+Continuous+Learner" alt="Typing SVG" />
+
 
 </div>
 
