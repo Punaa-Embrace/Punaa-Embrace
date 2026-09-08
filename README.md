@@ -35,7 +35,7 @@
 
 <div align="left">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Putsaa&show_icons=true&title_color=C41E3A&text_color=000000&icon_color=C41E3A&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github&card_width=200" width="330"/><img src="https://streak-stats.demolab.com?user=Putsaa&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&ring=C41E3A&fire=C41E3A&currStreakLabel=000000&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000" width="330"/><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Putsaa&title_color=C41E3A&text_color=000000&bg_color=00000000&hide_border=true&layout=compact&langs_count=8&card_width=200" width="240"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Putsaa&show_icons=true&title_color=C41E3A&text_color=000000&icon_color=C41E3A&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github&card_width=200" width="330"/><img src="https://streak-stats.demolab.com?user=Putsaa&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&ring=C41E3A&fire=C41E3A&currStreakLabel=000000&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000" width="330"/><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Putsaa&title_color=C41E3A&text_color=000000&bg_color=00000000&hide_border=true&layout=compact&langs_count=8&card_width=180" width="220"/>
 
 </div>
 
